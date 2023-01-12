@@ -1,0 +1,15 @@
+C:\Users\gamej\Desktop\C#\DZ\DZ(14.12.22)\DZ(14.12.22)\bin\Debug\net7.0\DZ(14.12.22).exe
+C:\Users\gamej\Desktop\C#\DZ\DZ(14.12.22)\DZ(14.12.22)\bin\Debug\net7.0\DZ(14.12.22).deps.json
+C:\Users\gamej\Desktop\C#\DZ\DZ(14.12.22)\DZ(14.12.22)\bin\Debug\net7.0\DZ(14.12.22).runtimeconfig.json
+C:\Users\gamej\Desktop\C#\DZ\DZ(14.12.22)\DZ(14.12.22)\bin\Debug\net7.0\DZ(14.12.22).dll
+C:\Users\gamej\Desktop\C#\DZ\DZ(14.12.22)\DZ(14.12.22)\bin\Debug\net7.0\DZ(14.12.22).pdb
+C:\Users\gamej\Desktop\C#\DZ\DZ(14.12.22)\DZ(14.12.22)\obj\Debug\net7.0\DZ(14.12.22).csproj.AssemblyReference.cache
+C:\Users\gamej\Desktop\C#\DZ\DZ(14.12.22)\DZ(14.12.22)\obj\Debug\net7.0\DZ(14.12.22).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamej\Desktop\C#\DZ\DZ(14.12.22)\DZ(14.12.22)\obj\Debug\net7.0\DZ(14.12.22).AssemblyInfoInputs.cache
+C:\Users\gamej\Desktop\C#\DZ\DZ(14.12.22)\DZ(14.12.22)\obj\Debug\net7.0\DZ(14.12.22).AssemblyInfo.cs
+C:\Users\gamej\Desktop\C#\DZ\DZ(14.12.22)\DZ(14.12.22)\obj\Debug\net7.0\DZ(14.12.22).csproj.CoreCompileInputs.cache
+C:\Users\gamej\Desktop\C#\DZ\DZ(14.12.22)\DZ(14.12.22)\obj\Debug\net7.0\DZ(14.12.22).dll
+C:\Users\gamej\Desktop\C#\DZ\DZ(14.12.22)\DZ(14.12.22)\obj\Debug\net7.0\refint\DZ(14.12.22).dll
+C:\Users\gamej\Desktop\C#\DZ\DZ(14.12.22)\DZ(14.12.22)\obj\Debug\net7.0\DZ(14.12.22).pdb
+C:\Users\gamej\Desktop\C#\DZ\DZ(14.12.22)\DZ(14.12.22)\obj\Debug\net7.0\DZ(14.12.22).genruntimeconfig.cache
+C:\Users\gamej\Desktop\C#\DZ\DZ(14.12.22)\DZ(14.12.22)\obj\Debug\net7.0\ref\DZ(14.12.22).dll
